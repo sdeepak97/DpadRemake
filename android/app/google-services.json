@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "592324804797",
+    "project_id": "dpaduiremake",
+    "storage_bucket": "dpaduiremake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592324804797:android:17076a1d4e11678b2677d4",
+        "android_client_info": {
+          "package_name": "com.example.dpaduiremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592324804797-bi82eje1qgdjbl604mp5hjv2b1b4g7eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dpaduiremake",
+            "certificate_hash": "a5ebe377166390de5f9294e2a74b79bf1178f965"
+          }
+        },
+        {
+          "client_id": "592324804797-5eba2vc2lu3fljnc26g6h8gulsgrm09g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn2U9Q4pE_XD032JpTCQD7I-2NuLd4_z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592324804797-5eba2vc2lu3fljnc26g6h8gulsgrm09g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
